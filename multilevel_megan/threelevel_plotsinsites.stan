@@ -30,11 +30,11 @@ parameters {
   vector[S] b_site;    //estimated slope for each site
   
   real<lower=0> sig_a_site;  //variance in intercept across plots; 
-#  real<lower=0> sig_a_site[S];  //variance in intercept across plots; 
+// real<lower=0> sig_a_site[S];  //variance in intercept across plots; 
       // the intercept for plot j in site s is drawn from a distribution with mean a_site[s]
       // and standard deviation sig_a_site[s]
   real<lower=0> sig_b_site;  //variance in slopes across plots; 
-#  real<lower=0> sig_b_site[S];  //variance in slopes across plots; 
+// real<lower=0> sig_b_site[S];  //variance in slopes across plots; 
       // the slope for plot j in site s is drawn from a distribution with mean b_site[s] 
       /// and standard deviation sig_b_site[s]
   real mu_a;                    //mean intercept across sites; 
