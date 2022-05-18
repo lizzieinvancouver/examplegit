@@ -8,6 +8,9 @@ Useful links:
 Mike Betancourt's factor modeling case studies reviews nested models: 
 https://betanalpha.github.io/assets/case_studies/factor_modeling.html
 
+Sample code online (though I am not sure it runs without divergences)
+https://rpubs.com/kaz_yos/stan-multi-2
+
 Equations:
 See git/teaching/gelmanhill/equations/sync_eqns.pdf (and .tex)
 
