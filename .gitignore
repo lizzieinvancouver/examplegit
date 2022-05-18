@@ -6,6 +6,6 @@
 *.rda
 *.Rds
 *.Rhistory
-*.Rapp
+*.Rapp.history
 *.docx
 *.DS_Store
