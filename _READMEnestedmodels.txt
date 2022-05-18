@@ -8,6 +8,9 @@ Useful links:
 Mike Betancourt's factor modeling case studies reviews nested models: 
 https://betanalpha.github.io/assets/case_studies/factor_modeling.html
 
+Equations:
+See git/teaching/gelmanhill/equations/sync_eqns.pdf (and .tex)
+
 Dan Flynn models:
 - Files like lday_ind2.stan lday_ind5.stan etc.
 - Dan worked on nested models. I can't recall if he ever got them running properly, but it looks hopeful if you go back through commits (see below). 
